@@ -6,3 +6,4 @@
  * Time: 10:39
  */
 phpinfo();
+echo 1111;
